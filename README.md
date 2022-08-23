@@ -1,4 +1,5 @@
 # restaurantapp
+the project was not finished and is having problems to host, but it is still possible to run it with npm or yarn, the steps for the same are below 
 
 ## Project setup
 ```
